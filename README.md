@@ -10,4 +10,4 @@ Have a look at the following repository, where the audited smart contracts can b
 
 https://github.com/jcsec-security/solidity-security-teaching-resources/tree/main/exercises
 
-Keep working in progess...
+Keep working in progess...🚀
